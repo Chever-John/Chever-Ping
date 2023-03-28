@@ -2,7 +2,7 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
 
-[English](README.md) | [中文](doc/README-zh.md)
+[English](../README.md) | [中文](README-zh.md)
 
 ## Background Brief
 
