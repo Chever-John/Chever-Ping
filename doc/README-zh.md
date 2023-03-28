@@ -6,4 +6,4 @@
 
 ## Background Brief
 
-The primary purpose is that I want to write some demos running in containers.
+这个项目里我主要会写一些跑在容器里的 demo。
