@@ -15,8 +15,8 @@ However, the foundation of everything is an agile project. Therefore, I will dev
 - Specification Design
   - **Project Documentation Specification**: Including user and development documentation and outputting the framework structure of the doc directory.
   - **API Interface Documentation Specification**
-  - **Version Specification**: Follow the semantic versioning specification or SemVer, and release [the version thinking article](devel/zh-CN/thinkings/version_standardization.md).
-  - **Commit Specification**: Write [commit automation specification article](devel/zh-CN/thinkings/version_standardization.md), research OpenAI's commit CI tool, choose Angular specification, and finally implement CI specification commit.
+  - **Version Specification**: Follow the semantic versioning specification or SemVer, and release [the version thinking article](doc/devel/zh-CN/thinkings/version_standardization.md).
+  - **Commit Specification**: Write [commit automation specification article](doc/devel/zh-CN/thinkings/version_standardization.md), research OpenAI's commit CI tool, choose Angular specification, and finally implement CI specification commit.
     - Research-based on OpenAI's commit CI tool
     - Then choose Angular specification.
     - Finally, implement CI specification commit.
